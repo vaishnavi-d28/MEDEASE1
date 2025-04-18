@@ -89,7 +89,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any queries, reach out to:
-- **Email**: chandankumar700785@gmail.com
+- **Email**: vaishnavid.connect@gmail.com
 - **GitHub**: [Github](https://github.com/chandan785)
 
 ---
