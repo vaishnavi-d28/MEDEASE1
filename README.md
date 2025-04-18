@@ -90,8 +90,7 @@ This project is licensed under the MIT License.
 ## Contact
 For any queries, reach out to:
 - **Email**: vaishnavid.connect@gmail.com
-- **GitHub**: [Github](https://github.com/chandan785)
+- **GitHub**: [Github](https://github.com/vaishnavi-d28)
 
 ---
 Made with ❤️ by the MEDEASE team
-   git clone https://github.com/your-username/medease.git
